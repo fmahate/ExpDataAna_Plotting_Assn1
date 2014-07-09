@@ -3,7 +3,10 @@
 ## Filename:    plot2.R
 ## Author:      Hidden for grading purpose
 ## Desc:        Assignment 1 for "Exploratory Data Analysis" course
-## Date:        June 8, 2014
+## Date:        July 9, 2014
+## 
+## ***********  INSTRUCTIONS:  ***********
+## Source assn_plots.R and then source this file and then execute makePlot2()
 ################################################################################
 ################################################################################
 
